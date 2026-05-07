@@ -1,0 +1,2 @@
+# Statistical-Analysis-ML-Data-fusion-using-R-for-Enhanced-life-expectancy.-
+A statistical analysis of 50 yrs on heterogenous database provide by world Bank and WHO using integration of data. Employed methodology includes multiple regression, statistical summaries (P and r values) for significance of results and predictive modelling towards finding the factors that has most impact. Joins has been used for fusing of Data.
